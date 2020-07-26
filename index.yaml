@@ -1,11 +1,18 @@
 apiVersion: v1
 entries:
   my-app:
-  - created: "2019-11-13T10:39:34.275995-08:00"
-    digest: 5000c19c4d1aeb62ed3bd85eeb6f6e8062eb249d30989a60611c7b4ed460be6c
+  - created: "2020-07-26T16:14:00.700842+08:00"
+    digest: a65649da983103d893fcced7e69f297783db0b7678216a00706e7a20290afc71
     icon: https://avatars2.githubusercontent.com/u/56983333?s=200&v=4
     name: my-app
     urls:
     - my-app-1.0.0.tgz
     version: 1.0.0
-generated: "2019-11-13T10:39:34.275522-08:00"
+  - created: "2020-07-26T16:14:00.701053+08:00"
+    digest: c5e4049ed0e706e7f3a2b27b35cd2cd9c30066c7f4c6d49edf125578dc170d47
+    icon: https://avatars2.githubusercontent.com/u/56983333?s=200&v=4
+    name: my-app
+    urls:
+    - my-app/my-app-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-07-26T16:14:00.699911+08:00"
